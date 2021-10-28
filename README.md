@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigMike502
 - 👀 I’m interested in Code Louisville.
 - 🌱 I’m currently learning Front End Web Dev.
-- 💞️ I’m looking to collaborate on Final Project.
+- 💞️ I’m looking to collaborate on my Final Project.
 - 📫 How to reach me mmelhorndesign@gmail.com / or Twitter > @BMisSasquatch 
 
 <!---
