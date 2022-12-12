@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BigMike502
-- 👀 I’m interested in Code Louisville.
-- 🌱 I’m currently learning Front End Web Dev.
-- 💞️ I’m looking to collaborate on my Final Project.
+- 👋 Hi, I’m Michael
+- 👀 I’m am a level 2 Software Developer.
+- 🌱 I’m currently learning Front End Web Dev / Software Development at Code Louisvile.
+- 💞️ I am wanting to hit the ground running with my coding career.
 - 📫 How to reach me mmelhorndesign@gmail.com / or Twitter > @BMisSasquatch 
 
 <!---
