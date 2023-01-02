@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m am a level 2 Software Developer.
+- 👀 I’m am a level 2 Software Developer student with Code Louisville.
 - 🌱 I’m currently learning Front End Web Dev / Software Development at Code Louisvile.
 - 💞️ I am wanting to hit the ground running with my coding career.
 - 📫 How to reach me mmelhorndesign@gmail.com / or Twitter > @BMisSasquatch 
